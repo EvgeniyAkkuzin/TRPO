@@ -1,34 +1,47 @@
 <?php
 
-class A {
+class A
+{
+    protected $x;
 
+    public function dec(float $a, float $b)
+    {
+        return array(($a === 0 ? Null : $this->x = -$b / $a));
+
+    }
 }
 
-class B extends A {
-	public function __construct($a, $b, $c, $d) {
-		$this->a = $a;
-		$this->b = $b;
-		$this->c = $c;
-		$this->d = $d;
-	}
-	protected $a;
-	protected $b;
-	protected $c;
-	protected $d;
+class B extends A
+{
+
+    protected function disc($a, $b, $c)
+    {
+        return $b * $b - 4 * $a * $c;
+
+    }
+
+    public function dec($a, $b, $c)
+    {
+        if ($a === 0) {
+            return dec($b, $c);
+        }
+
+        $d = $this->disc($a, $b, $c);
+
+        if ($d > 0) {
+            $d = sqrt($d);
+            return $this->x = array((-$b - $d) / (2 * $a), (-$b + $d) / (2 * $a));
+
+        }
+
+        if ($d === 0) {
+            return $this->x = array(-$b / (2 * $a));
+        }
+
+        return null;
+
+    }
 }
-
-$a1 = new A();
-$a2 = new A();
-$a3 = new A();
-$a4 = new A();
-$b5 = new B($a1, $a2, $a3, $a4);
-
-var_dump($b5);
-
-$b5 = new B( new A(), new A(), new A(), new A());
-
-echo "<br>";
-
-var_dump($b5);
 
 ?>
+

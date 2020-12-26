@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="253cfe6a-a334-4a23-a02e-dada6e22bcd5" name="Default Changelist" comment="" />
+    <list default="true" id="f5a11581-1c92-4db2-8299-f6063cd6b74d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,28 +9,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>constr</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/core/LogInterface.php" />
+        <option value="$PROJECT_DIR$/core/LogAbstract.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/qu_Equation.php" />
+        <option value="$PROJECT_DIR$/core/EquationInterface.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/Equation.php" />
         <option value="$PROJECT_DIR$/Gaivoronskiy/MyLog.php" />
         <option value="$PROJECT_DIR$/Gaivoronskiy/Line.php" />
-        <option value="$PROJECT_DIR$/core/EquationInterface.php" />
-        <option value="$PROJECT_DIR$/core/LogAbstract.php" />
-        <option value="$PROJECT_DIR$/core/LogInterface.php" />
-        <option value="$PROJECT_DIR$/Gaivoronskiy/Quadratic.php" />
-        <option value="$PROJECT_DIR$/../ТРПО_4/index.php" />
-        <option value="$PROJECT_DIR$/Akkuzin/Line.php" />
-        <option value="$PROJECT_DIR$/Akkuzin/MyLog.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/QuEquation.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/Equation.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/GaivoronskiyException.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/GaivoronskiyException.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/MyLog.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/GaivoronskiyException.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/GaivoronskiyException.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/Equation.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/Equation.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/QuEquation.php" />
+        <option value="$PROJECT_DIR$/Gaivoronskiy/QuEquation.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/Akkuzin/Quadratic.php" />
+        <option value="$PROJECT_DIR$/Akkuzin/QuEquation.php" />
       </list>
     </option>
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1036" />
   </component>
@@ -39,40 +53,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Laba3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Laba3" type="462c0819:PsiDirectoryNode" />
+              <item name="ТРПО_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ТРПО_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Laba3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Laba3" type="462c0819:PsiDirectoryNode" />
+              <item name="ТРПО_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ТРПО_4" type="462c0819:PsiDirectoryNode" />
               <item name="Akkuzin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Laba3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Laba3" type="462c0819:PsiDirectoryNode" />
+              <item name="ТРПО_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ТРПО_4" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ТРПО_4" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\ТРПО\Laba3\core" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,75 +100,105 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.index.php">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
-    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+    <configuration name="index.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.index.php (1)" />
+      <item itemvalue="PHP Script.index.php" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="253cfe6a-a334-4a23-a02e-dada6e22bcd5" name="Default Changelist" comment="" />
-      <created>1603450682692</created>
+      <changelist id="f5a11581-1c92-4db2-8299-f6063cd6b74d" name="Default Changelist" comment="" />
+      <created>1601556527999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603450682692</updated>
-      <workItem from="1603450683800" duration="2371000" />
-      <workItem from="1603886255888" duration="73000" />
-      <workItem from="1603966824415" duration="3956000" />
-      <workItem from="1603970902712" duration="311000" />
-      <workItem from="1604312534486" duration="1541000" />
-      <workItem from="1604314556019" duration="14000" />
+      <updated>1601556527999</updated>
+      <workItem from="1601556534940" duration="2036000" />
+      <workItem from="1602065028339" duration="11389000" />
+      <workItem from="1602144580741" duration="4124000" />
+      <workItem from="1602157913156" duration="5340000" />
+      <workItem from="1603275820890" duration="3547000" />
+      <workItem from="1603368904246" duration="3425000" />
+      <workItem from="1603707935054" duration="785000" />
+      <workItem from="1603708732688" duration="808000" />
+      <workItem from="1603796142026" duration="633000" />
+      <workItem from="1603968487441" duration="1172000" />
+      <workItem from="1604124790342" duration="263000" />
+      <workItem from="1604125083156" duration="852000" />
+      <workItem from="1604125978984" duration="475000" />
+      <workItem from="1604126685671" duration="2606000" />
+      <workItem from="1604130812316" duration="938000" />
+      <workItem from="1604133987820" duration="952000" />
+      <workItem from="1604312644490" duration="1618000" />
+      <workItem from="1604314573645" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8266000" />
+    <option name="totallyTimeSpent" value="42289000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13791268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.26025918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5005325" side_tool="true" weight="0.150108" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104367" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13791268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.26025918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5005325" side_tool="true" weight="0.150108" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -165,37 +209,272 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/A.php" />
-    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/B.php" />
-    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/MyLog.php" />
-    <entry file="file://$PROJECT_DIR$/../ТРПО_4/index.php" />
+    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/qu_Equation.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="170" column="67" selection-start-line="170" selection-start-column="67" selection-end-line="170" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/H:/ТРПО_4">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="696.0" y="11.5">\core\EquationInterface</node>
+            <node x="415.0" y="34.0">\core\LogInterface</node>
+            <node x="46.5" y="660.0">\RuntimeException</node>
+            <node x="574.0" y="0.0">\Gaivoronskiy\Equation</node>
+            <node x="0.0" y="252.0">\Exception</node>
+            <node x="631.75" y="121.0">\Gaivoronskiy\QuEquation</node>
+            <node x="39.5" y="736.0">\Gaivoronskiy\GaivoronskiyException</node>
+            <node x="47.0" y="0.0">\Throwable</node>
+            <node x="280.0" y="0.0">\core\LogAbstract</node>
+            <node x="359.25" y="188.0">\Gaivoronskiy\MyLog</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\RuntimeException" target="\Exception">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="179.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\MyLog" target="\core\LogInterface">
+              <point x="22.75" y="-57.0" />
+              <point x="427.5" y="163.0" />
+              <point x="472.0" y="163.0" />
+              <point x="0.0" y="35.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\QuEquation" target="\core\EquationInterface">
+              <point x="33.0" y="-35.0" />
+              <point x="730.75" y="96.0" />
+              <point x="770.5" y="96.0" />
+              <point x="0.0" y="24.0" />
+            </edge>
+            <edge source="\Exception" target="\Throwable">
+              <point x="0.0" y="-179.0" />
+              <point x="0.0" y="101.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\GaivoronskiyException" target="\RuntimeException">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\QuEquation" target="\Gaivoronskiy\Equation">
+              <point x="-33.0" y="-35.0" />
+              <point x="664.75" y="96.0" />
+              <point x="625.0" y="96.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="\Gaivoronskiy\MyLog" target="\core\LogAbstract">
+              <point x="-22.75" y="-57.0" />
+              <point x="382.0" y="163.0" />
+              <point x="337.5" y="163.0" />
+              <point x="0.0" y="69.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="47.0" y="345.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gaivoronskiy/Line.php" />
     <entry file="file://$PROJECT_DIR$/Gaivoronskiy/Quadratic.php" />
-    <entry file="file://$PROJECT_DIR$/Akkuzin/Line.php">
+    <entry file="file://$PROJECT_DIR$/Код">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/H:/ТРПО/ТРПО_4/core">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/core</OriginalElement>
+          <nodes>
+            <node x="" y="">\core\EquationInterface</node>
+            <node x="" y="">\core\LogInterface</node>
+            <node x="" y="">\core\LogAbstract</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="-87.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/H:/ТРПО/ТРПО_4/Gaivoronskiy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/Gaivoronskiy</OriginalElement>
+          <nodes>
+            <node x="315.25" y="76.0">\Gaivoronskiy\QuEquation</node>
+            <node x="222.0" y="0.0">\core\EquationInterface</node>
+            <node x="127.0" y="299.0">\core\LogInterface</node>
+            <node x="17.5" y="152.0">\RuntimeException</node>
+            <node x="86.25" y="375.0">\Gaivoronskiy\MyLog</node>
+            <node x="42.0" y="76.0">\Exception</node>
+            <node x="42.0" y="0.0">\Throwable</node>
+            <node x="0.0" y="299.0">\core\LogAbstract</node>
+            <node x="0.0" y="228.0">\Gaivoronskiy\GaivoronskiyException</node>
+            <node x="391.0" y="0.0">\Gaivoronskiy\Equation</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\RuntimeException" target="\Exception">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\MyLog" target="\core\LogInterface">
+              <point x="16.25" y="-13.0" />
+              <point x="135.0" y="350.0" />
+              <point x="184.0" y="350.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\QuEquation" target="\core\EquationInterface">
+              <point x="-25.0" y="-13.0" />
+              <point x="340.25" y="51.0" />
+              <point x="296.5" y="51.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Exception" target="\Throwable">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\QuEquation" target="\Gaivoronskiy\Equation">
+              <point x="25.0" y="-13.0" />
+              <point x="390.25" y="51.0" />
+              <point x="434.0" y="51.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\GaivoronskiyException" target="\RuntimeException">
+              <point x="0.0" y="-13.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="\Gaivoronskiy\MyLog" target="\core\LogAbstract">
+              <point x="-16.25" y="-13.0" />
+              <point x="102.5" y="350.0" />
+              <point x="53.5" y="350.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="239.0" y="153.0" />
+          <SelectedNodes>
+            <node>\Exception</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/Equation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/GaivoronskiyException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/MyLog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#31#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gaivoronskiy/QuEquation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Akkuzin/GaivoronskiyException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#7#25#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Akkuzin/QuEquation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Akkuzin/Equation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Akkuzin/AkkuzinException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Akkuzin/MyLog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Akkuzin/Quadratic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="320">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/EquationInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="32">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/LogInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -206,19 +485,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/LogInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

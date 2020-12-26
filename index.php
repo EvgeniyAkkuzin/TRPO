@@ -1,47 +1,13 @@
 <?php
+namespace Laba3;
 
-class A
-{
-    protected $x;
+use Akkuzin\MyLog;
 
-    public function dec(float $a, float $b)
-    {
-        return array(($a === 0 ? Null : $this->x = -$b / $a));
-
-    }
-}
-
-class B extends A
-{
-
-    protected function disc($a, $b, $c)
-    {
-        return $b * $b - 4 * $a * $c;
-
-    }
-
-    public function dec($a, $b, $c)
-    {
-        if ($a === 0) {
-            return dec($b, $c);
-        }
-
-        $d = $this->disc($a, $b, $c);
-
-        if ($d > 0) {
-            $d = sqrt($d);
-            return $this->x = array((-$b - $d) / (2 * $a), (-$b + $d) / (2 * $a));
-
-        }
-
-        if ($d === 0) {
-            return $this->x = array(-$b / (2 * $a));
-        }
-
-        return null;
-
-    }
-}
-
-?>
-
+require_once "core\EquationInterface.php";
+require_once "core\LogAbstract.php";
+require_once "core\LogInterface.php";
+require_once "Akkuzin\Line.php";
+require_once "Akkuzin\MyLog.php";
+require_once "Akkuzin\Quadratic.php";
+MyLog::log("evgeniy");
+MyLog::write();

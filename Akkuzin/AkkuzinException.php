@@ -1,4 +1,4 @@
-<?php namespace Akkuzin;
+<?php namespace Loginov;
 
 use RuntimeException;
 

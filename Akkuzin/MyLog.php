@@ -21,6 +21,8 @@ Class MyLog extends LogAbstract implements LogInterface {
         
         foreach($this->log as $value){
             echo $value."\n";
+			
+            file_put_contents(__DIR__ . "\..\log\\$b.log", trim($value."\r\n") . PHP_EOL, FILE_APPEND);
         }
         
     }

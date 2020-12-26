@@ -1,21 +1,23 @@
 <?php
 
-use Akkuzin\MyLog;
-use Akkuzin\AkkuzinException;
-use Akkuzin\QuEquation;
+use Loginov\MyLog;
+use Loginov\AkkuzinException;
+use Loginov\QuEquation;
 
 include "core/EquationInterface.php";
 include "core/LogAbstract.php";
 include "core/LogInterface.php";
-include "Akkuzin/MyLog.php";
-include "Akkuzin/Equation.php";
-include "Akkuzin/QuEquation.php";
-include "Akkuzin/AkkuzinException.php";
+include "Loginov/MyLog.php";
+include "Loginov/Equation.php";
+include "Loginov/QuEquation.php";
+include "Loginov/AkkuzinException.php";
 
 ini_set("display_errors", 1);
 error_reporting(-1);
 
 try {
+	MyLog::log("Версия программы: " . trim(file_get_contents('version')) );
+
     $b = new QuEquation();
     $values = array();
 

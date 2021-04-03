@@ -1,7 +1,7 @@
 <?php
 
 use Akkuzin\MyLog;
-use Akkuzin\AkkuzinException;
+use Akkuzin\LoginovException;
 use Akkuzin\QuEquation;
 
 include "core/EquationInterface.php";
@@ -10,12 +10,14 @@ include "core/LogInterface.php";
 include "Akkuzin/MyLog.php";
 include "Akkuzin/Equation.php";
 include "Akkuzin/QuEquation.php";
-include "Akkuzin/AkkuzinException.php";
+include "Akkuzin/LoginovException.php";
 
 ini_set("display_errors", 1);
 error_reporting(-1);
 
 try {
+	MyLog::log("Версия программы: " . trim(file_get_contents('version')) );
+
     $b = new QuEquation();
     $values = array();
 
@@ -32,7 +34,7 @@ try {
 
     $str = implode(", ", $x);
     MyLog::log("Корни уравнения: " . $str);
-} catch (AkkuzinException $e) {
+} catch (LoginovException $e) {
     MyLog::log($e->getMessage());
 }
 
